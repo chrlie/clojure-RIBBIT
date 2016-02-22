@@ -20,6 +20,8 @@
                             .......   ...'..    c'....
 ```
 
+[![Clojars Project](https://img.shields.io/clojars/v/ribbit.svg)](https://clojars.org/ribbit)
+
 A Clojure RIBBIT client and decoding library. See [the definition here](http://frog.tips/api/1/).
 
 ## Quick start
