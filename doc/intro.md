@@ -25,8 +25,14 @@ A Clojure RIBBIT client and decoding library. See [the definition here](http://f
 ## Quick start
 
 ```clojure
-(require 'ribbit)
+(ns your-namespace
+  (:require ribbit.client))
+
+...
 
 ;; {:number 42, :tip "DO NOT IMMERSE FROG IN LIQUIDS."}
 (ribbit.client/tip 42)
+
+;; Get a whole bunch of tips
+(ribbit.client./croak)
 ```
