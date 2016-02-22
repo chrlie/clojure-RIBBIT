@@ -28,5 +28,5 @@ A Clojure RIBBIT client and decoding library. See [the definition here](http://f
 (require 'ribbit)
 
 ;; {:number 42, :tip "DO NOT IMMERSE FROG IN LIQUIDS."}
-(ribbit/tip 42)
+(ribbit.client/tip 42)
 ```
