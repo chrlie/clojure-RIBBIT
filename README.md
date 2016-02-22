@@ -34,5 +34,5 @@ A Clojure RIBBIT client and decoding library. See [the definition here](http://f
 (ribbit.client/tip 42)
 
 ;; Get a whole bunch of tips
-(ribbit.client./croak)
+(ribbit.client/croak)
 ```
