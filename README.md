@@ -21,7 +21,7 @@
 ```
 
 [![Clojars Project](https://img.shields.io/clojars/v/ribbit.svg)](https://clojars.org/ribbit)
-[![Build Status](https://travis-ci.org/clibc/clojure-RIBBIT.svg?branch=master)](https://travis-ci.org/clibc/clojure-RIBBIT)
+[![Build Status](https://travis-ci.org/chrlie/clojure-RIBBIT.svg?branch=master)](https://travis-ci.org/chrlie/clojure-RIBBIT)
 
 A Clojure RIBBIT client and decoding library. See [the definition here](http://frog.tips/api/1/).
 
